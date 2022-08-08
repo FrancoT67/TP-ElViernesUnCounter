@@ -1,0 +1,22 @@
+Ejercicio 1: Escribir una función SumArray que tome 2 parametros , un arreglo de
+numeros ordenados y un numero. La función devolverá true si cualquier
+combinación de 2 números dentro del arreglo suman el número del segundo
+parámetro. Sino devolverá False
+Ejercicio 2: Crea una función llamada Min que tome 2 parámetros , un arreglo de
+números desordenados y un String que va a valer “index” o “value”. Si el String es
+“value” la funcion deberá devolver el número mas chico del arreglo. Si el string es
+“index” la funcion deberá devolver el indice (posicion) del numero mas chico en el
+arreglo.
+Ejer 3: Crear una función llamada middleCharacter que reciba un String por
+parámetro y devuelva sus caracteres del medio ej:”hola” debera retornar la “o”y la”l”
+“cosas” deberá retornar una “s”
+4)Crear función llamada paresEimpares que reciba 3 parámetros. Los dos primeros
+que sean números enteros y el tercero un String. La función tiene que mostrar por
+consola los números entre el 0 y el primer parámetro que recibe . Pero debe , en
+primer lugar,mostrar todos los números pares. Además, cuando el numero sea
+divisible por el segundo parámetro pasado en la función , en vez de mostrarlo por
+consola debe imprimir la palabra que recibe como tercer parámetro.
+ej: (12,3,mateo) pares e impares del 0 al 12 , cuando sea divisible por 3 el numero
+ese mostramos la palabra mateo
+5)Entregar los 4 ejercicios en un nuevo repositorio gitHub con 4 ramas(1 por
+ejercicio)
